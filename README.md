@@ -15,3 +15,12 @@
 4. Dividir la imagen en 4 parches diferentes cada uno de tamaño de 256x256 píxeles.
 
 5. Realizar las operaciones previas a la U-net (redimensionamiento utilizando UpSampling2D  y MaxPool2D)
+
+
+# Contenido
+
+Todos los codigos estan en formato ipynb y py 
+
+1. U-net basica : U-Net.py
+2. Preprocesamiento : Preprocesamiento.py
+2. U-net multi scale : U-net-scale.py
